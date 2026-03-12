@@ -1,0 +1,32 @@
+{
+  "HOME": {
+    "lat": -35.363261,
+    "lon": 149.16523,
+    "alt": 10,
+    "description": "Default home/launch position (CMAC runway)"
+  },
+  "ALPHA": {
+    "lat": -35.362811,
+    "lon": 149.16523,
+    "alt": 10,
+    "description": "Waypoint Alpha - North of home"
+  },
+  "BRAVO": {
+    "lat": -35.364261,
+    "lon": 149.16623,
+    "alt": 15,
+    "description": "Waypoint Bravo - Southeast of home"
+  },
+  "CHARLIE": {
+    "lat": -35.363261,
+    "lon": 149.16423,
+    "alt": 10,
+    "description": "Waypoint Charlie - West of home"
+  },
+  "DELTA": {
+    "lat": -35.362261,
+    "lon": 149.16623,
+    "alt": 20,
+    "description": "Waypoint Delta - Northeast, higher altitude"
+  }
+}
