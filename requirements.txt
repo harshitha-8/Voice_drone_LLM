@@ -1,0 +1,16 @@
+# Voice-Controlled Drone Swarm Dependencies
+# Python 3.10+ recommended
+
+# Voice Recognition
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+
+# Drone Control
+dronekit>=2.9.2
+pymavlink>=2.4.41
+
+# Utilities
+numpy>=1.24.0
+
+# Note: On macOS, install portaudio first:
+# brew install portaudio
