@@ -1,0 +1,35 @@
+# MAVProxy Formation Script
+# Spread formation: 2 columns x 4 rows
+# Execute with: script /home/neon_byte/swarm_formation.txt
+
+vehicle 1
+mode GUIDED
+guided 20 0 10
+
+vehicle 2
+mode GUIDED
+guided 20 10 10
+
+vehicle 3
+mode GUIDED
+guided 20 -10 10
+
+vehicle 4
+mode GUIDED
+guided 30 0 10
+
+vehicle 5
+mode GUIDED
+guided 30 10 10
+
+vehicle 6
+mode GUIDED
+guided 30 -10 10
+
+vehicle 7
+mode GUIDED
+guided 40 0 10
+
+vehicle 8
+mode GUIDED
+guided 40 10 10
